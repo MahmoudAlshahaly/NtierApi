@@ -1,0 +1,15 @@
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.BLL\bin\Debug\net5.0\N-TierArch.BLL.deps.json
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.BLL\bin\Debug\net5.0\N-TierArch.BLL.dll
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.BLL\bin\Debug\net5.0\ref\N-TierArch.BLL.dll
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.BLL\bin\Debug\net5.0\N-TierArch.BLL.pdb
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.BLL\bin\Debug\net5.0\N-TierArch.DAL.dll
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.BLL\bin\Debug\net5.0\N-TierArch.DAL.pdb
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.BLL\obj\Debug\net5.0\N-TierArch.BLL.csproj.AssemblyReference.cache
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.BLL\obj\Debug\net5.0\N-TierArch.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.BLL\obj\Debug\net5.0\N-TierArch.BLL.AssemblyInfoInputs.cache
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.BLL\obj\Debug\net5.0\N-TierArch.BLL.AssemblyInfo.cs
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.BLL\obj\Debug\net5.0\N-TierArch.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.BLL\obj\Debug\net5.0\N-TierArch.BLL.csproj.CopyComplete
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.BLL\obj\Debug\net5.0\N-TierArch.BLL.dll
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.BLL\obj\Debug\net5.0\ref\N-TierArch.BLL.dll
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.BLL\obj\Debug\net5.0\N-TierArch.BLL.pdb

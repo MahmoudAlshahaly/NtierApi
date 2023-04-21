@@ -1,0 +1,14 @@
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.DAL\bin\Debug\net5.0\N-TierArch.DAL.deps.json
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.DAL\bin\Debug\net5.0\N-TierArch.DAL.runtimeconfig.json
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.DAL\bin\Debug\net5.0\N-TierArch.DAL.runtimeconfig.dev.json
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.DAL\bin\Debug\net5.0\N-TierArch.DAL.dll
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.DAL\bin\Debug\net5.0\ref\N-TierArch.DAL.dll
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.DAL\bin\Debug\net5.0\N-TierArch.DAL.pdb
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.DAL\obj\Debug\net5.0\N-TierArch.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.DAL\obj\Debug\net5.0\N-TierArch.DAL.AssemblyInfoInputs.cache
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.DAL\obj\Debug\net5.0\N-TierArch.DAL.AssemblyInfo.cs
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.DAL\obj\Debug\net5.0\N-TierArch.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.DAL\obj\Debug\net5.0\N-TierArch.DAL.dll
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.DAL\obj\Debug\net5.0\ref\N-TierArch.DAL.dll
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.DAL\obj\Debug\net5.0\N-TierArch.DAL.pdb
+C:\Users\Mahmoud Ahmed\Desktop\N-TierArch.Api\N-TierArch.DAL\obj\Debug\net5.0\N-TierArch.DAL.genruntimeconfig.cache
